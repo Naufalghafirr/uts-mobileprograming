@@ -1,0 +1,463 @@
+[
+    {
+        "pengumuman": [
+            {
+                "judul": "Libur Nasional",
+                "isi": "Kampus akan libur pada tanggal 25 Desember 2023 untuk memperingati Hari Natal."
+            },
+            {
+                "judul": "Pendaftaran Mata Kuliah Semester Ganjil",
+                "isi": "Pendaftaran mata kuliah untuk semester ganjil dibuka mulai 1 Agustus hingga 15 Agustus 2023."
+            },
+            {
+                "judul": "Workshop Pengembangan Karir",
+                "isi": "Ikuti workshop pengembangan karir pada tanggal 10 September 2023 di Aula Utama."
+            }
+        ],
+        "nilai_mahasiswa" : [
+            {
+                "nim": 23041001,
+                "nama": "Naufal Aditya Pratama",
+                "penilaian": [
+                    {
+                        "semester": "S1",
+                        "mata_kuliah": [
+                            {
+                                "kode": "CS101",
+                                "nama": "Pemrograman Dasar",
+                                "sks": 3,
+                                "nilai": "A"
+                            },
+                            {
+                                "kode": "CS102",
+                                "nama": "Struktur Data",
+                                "sks": 4,
+                                "nilai": "B+"
+                            },
+                            {
+                                "kode": "CS103",
+                                "nama": "Basis Data",
+                                "sks": 3,
+                                "nilai": "A-"
+                            }
+                        ], 
+                        "ipk": 3.67
+                    },
+                    {
+                        "semester": "S2",
+                        "mata_kuliah": [
+                            {
+                                "kode": "CS201",
+                                "nama": "Jaringan Komputer",
+                                "sks": 3,
+                                "nilai": "B"
+                            },
+                            {
+                                "kode": "CS202",
+                                "nama": "Rekayasa Perangkat Lunak",
+                                "sks": 4,
+                                "nilai": "A"
+                            }
+                        ],
+                        "ipk": 3.75
+                    },
+                    {
+                        "semester": "S3",
+                        "mata_kuliah": [
+                            {
+                                "kode": "CS301",
+                                "nama": "Kecerdasan Buatan",
+                                "sks": 3,
+                                "nilai": "A"
+                            },
+                            {
+                                "kode": "CS302",
+                                "nama": "Keamanan Siber",
+                                "sks": 4,
+                                "nilai": "A-"
+                            }, 
+                            {
+                                "kode": "CS303",
+                                "nama": "Pemrograman Web Lanjut",
+                                "sks": 3,
+                                "nilai": "B+"
+                            }
+                        ],
+                        "ipk": 3.80
+                    },
+                    {
+                        "semester": "S4",
+                        "mata_kuliah": [
+                            {
+                                "kode": "CS401",
+                                "nama": "Pengembangan Aplikasi Mobile",
+                                "sks": 3,
+                                "nilai": "B+"
+                            },
+                            {
+                                "kode": "CS402",
+                                "nama": "Cloud Computing",
+                                "sks": 4,
+                                "nilai": "A"
+                            },
+                            {
+                                "kode": "CS403",
+                                "nama": "Big Data",
+                                "sks": 3,
+                                "nilai": "A-"
+                            }
+                        ],
+                        "ipk": 3.78
+                    },
+                    {
+                        "semester": "S5",
+                        "mata_kuliah": [
+                            {
+                                "kode": "CS501",
+                                "nama": "Data Science",
+                                "sks": 3,
+                                "nilai": "A"
+                            },
+                            {
+                                "kode": "CS502",
+                                "nama": "Internet of Things",
+                                "sks": 4,
+                                "nilai": "A-"
+                            },
+                            {
+                                "kode": "CS503",
+                                "nama": "DevOps",
+                                "sks": 3,
+                                "nilai": "B+"
+                            }
+                        ],
+                        "ipk": 3.85
+                    }
+                ]
+            },
+            {
+                "nim": 23041002,
+                "nama": "Siti Aisyah",
+                "penilaian": [
+                    {
+                        "semester": "S1",
+                        "mata_kuliah": [
+                            {
+                                "kode": "IS101",
+                                "nama": "Pengantar Sistem Informasi",
+                                "sks": 3,
+                                "nilai": "A-"
+                            },
+                            {
+                                "kode": "IS102",
+                                "nama": "Analisis dan Desain Sistem",
+                                "sks": 4,
+                                "nilai": "B+"
+                            }
+                        ],
+                        "ipk": 3.60
+                    },
+                    {
+                        "semester": "S2",
+                        "mata_kuliah": [
+                            {
+                                "kode": "IS201",
+                                "nama": "Manajemen Basis Data",
+                                "sks": 3,
+                                "nilai": "B"
+                            },
+                            {
+                                "kode": "IS202",
+                                "nama": "Sistem Informasi Enterprise",
+                                "sks": 4,
+                                "nilai": "A"
+                            },
+                            {
+                                "kode": "IS203",
+                                "nama": "E-Business",
+                                "sks": 3,
+                                "nilai": "A-"
+                            }
+                        ],
+                        "ipk": 3.70
+                    },
+                    {
+                        "semester": "S3",
+                        "mata_kuliah": [
+                            {
+                                "kode": "IS301",
+                                "nama": "Sistem Informasi Geografis",
+                                "sks": 3,
+                                "nilai": "A"
+                            },
+                            {
+                                "kode": "IS302",
+                                "nama": "Keamanan Sistem Informasi",
+                                "sks": 4,
+                                "nilai": "A-"
+                            }
+                        ],
+                        "ipk": 3.75
+                    }, {
+                        "semester": "S4",
+                        "mata_kuliah": [
+                            {
+                                "kode": "IS401",
+                                "nama": "Sistem Informasi Manufaktur",
+                                "sks": 3,
+                                "nilai": "B+"
+                            },
+                            {
+                                "kode": "IS402",
+                                "nama": "Sistem Informasi Kesehatan",
+                                "sks": 4,
+                                "nilai": "A"
+                            },
+                            {
+                                "kode": "IS403",
+                                "nama": "Sistem Pendukung Keputusan",
+                                "sks": 3,
+                                "nilai": "A-"
+                            },
+                            {
+                                "kode": "IS404",
+                                "nama": "Data Mining",
+                                "sks": 3,
+                                "nilai": "B+"
+                            }
+                        ],
+                        "ipk": 3.80
+                    },
+                    {
+                        "semester": "S5",
+                        "mata_kuliah": [
+                            {
+                                "kode": "IS501",
+                                "nama": "Analitik Bisnis",
+                                "sks": 3,
+                                "nilai": "A"
+                            },
+                            {
+                                "kode": "IS502",
+                                "nama": "Manajemen Proyek TI",
+                                "sks": 4,
+                                "nilai": "A-"
+                            }
+                        ],
+                        "ipk": 3.82
+                    }
+                ]
+            },
+            {
+                "nim": 23041003,
+                "nama": "Budi Santoso",
+                "penilaian": [
+                    {
+                        "semester": "S1",
+                        "mata_kuliah": [
+                            {
+                                "kode": "TK101",
+                                "nama": "Dasar-dasar Teknik Komputer",
+                                "sks": 3,
+                                "nilai": "B+"
+                            },
+                            {
+                                "kode": "TK102",
+                                "nama": "Sirkuit Digital",
+                                "sks": 4,
+                                "nilai": "A-"
+                            }
+                        ],
+                        "ipk": 3.55
+                    },
+                    {
+                        "semester": "S2",
+                        "mata_kuliah": [
+                            {
+                                "kode": "TK201",
+                                "nama": "Mikroprosesor dan Mikrokontroler",
+                                "sks": 3,
+                                "nilai": "B"
+                            },
+                            {
+                                "kode": "TK202",
+                                "nama": "Sistem Tertanam",
+                                "sks": 4,
+                                "nilai": "A"
+                            }
+                        ],
+                        "ipk": 3.65
+                    },
+                    {
+                        "semester": "S3",
+                        "mata_kuliah": [
+                            {
+                                "kode": "TK301",
+                                "nama": "Jaringan Sensor Nirkabel",
+                                "sks": 3,
+                                "nilai": "A-"
+                            },
+                            {
+                                "kode": "TK302",
+                                "nama": "Desain VLSI",
+                                "sks": 4,
+                                "nilai": "B+"
+                            }
+                        ],
+                        "ipk": 3.70
+                    },
+                    {
+                        "semester": "S4",
+                        "mata_kuliah": [
+                            {
+                                "kode": "TK401",
+                                "nama": "Robotika",
+                                "sks": 3,
+                                "nilai": "B+"
+                            },
+                            {
+                                "kode": "TK402",
+                                "nama": "Sistem Kendali",
+                                "sks": 4,
+                                "nilai": "A-"
+                            }
+                        ],
+                        "ipk": 3.75
+                    },
+                    {
+                        "semester": "S5",
+                        "mata_kuliah": [
+                            {
+                                "kode": "TK501",
+                                "nama": "Pengolahan Sinyal Digital",
+                                "sks": 3,
+                                "nilai": "A"
+                            },
+                            {
+                                "kode": "TK502",
+                                "nama": "Komunikasi Data",
+                                "sks": 4,
+                                "nilai": "A-"
+                            }
+                        ],
+                        "ipk": 3.80
+                    }
+                ]
+            },
+            {
+                "nim": 23041004,
+                "nama": "Dewi Lestari",
+                "penilaian": [
+                    {
+                        "semester": "S1",
+                        "mata_kuliah": [
+                            {
+                                "kode": "TI101",
+                                "nama": "Pengantar Teknologi Informasi",
+                                "sks": 3,
+                                "nilai": "A"
+                            },
+                            {
+                                "kode": "TI102",
+                                "nama": "Komputasi Awan",
+                                "sks": 4,
+                                "nilai": "B+"
+                            }
+                        ],
+                        "ipk": 3.65
+                    },
+                    {
+                        "semester": "S2",
+                        "mata_kuliah": [
+                            {
+                                "kode": "TI201",
+                                "nama": "Virtualisasi dan Containerization",
+                                "sks": 3,
+                                "nilai": "A-"
+                            },
+                            {
+                                "kode": "TI202",
+                                "nama": "Arsitektur Cloud",
+                                "sks": 4,
+                                "nilai": "A"
+                            }
+                        ],
+                        "ipk": 3.70
+                    },
+                    {
+                        "semester": "S3",
+                        "mata_kuliah": [
+                            {
+                                "kode": "TI301",
+                                "nama": "Keamanan Cloud",
+                                "sks": 3,
+                                "nilai": "B+"
+                            },
+                            {
+                                "kode": "TI302",
+                                "nama": "Layanan Cloud",
+                                "sks": 4,
+                                "nilai": "A-"
+                            }
+                        ],
+                        "ipk": 3.75
+                    },
+                    {
+                        "semester": "S4",
+                        "mata_kuliah": [
+                            {
+                                "kode": "TI401",
+                                "nama": "Manajemen Cloud",
+                                "sks": 3,
+                                "nilai": "A"
+                            },
+                            {
+                                "kode": "TI402",
+                                "nama": "Big Data di Cloud",
+                                "sks": 4,
+                                "nilai": "A-"
+                            }
+                        ],
+                        "ipk": 3.80
+                    },
+                    {
+                        "semester": "S5",
+                        "mata_kuliah": [
+                            {
+                                "kode": "TI501",
+                                "nama": "DevOps di Cloud",
+                                "sks": 3,
+                                "nilai": "A-"
+                            },
+                            {
+                                "kode": "TI502",
+                                "nama": "Internet of Things di Cloud",
+                                "sks": 4,
+                                "nilai": "B+"
+                            }
+                        ],
+                        "ipk": 3.78
+                    }
+                ]
+            }
+        ],
+        "documentation": [
+            {
+                "title": "Panduan Penggunaan Sistem Akademik",
+                "link": "https://example.com/panduan-sistem-akademik"
+            },
+            {
+                "title": "Kebijakan Privasi dan Keamanan Data",
+                "link": "https://example.com/kebijakan-privasi"
+            },
+            {
+                "title": "FAQ Sistem Akademik",
+                "link": "https://example.com/faq-sistem-akademik"
+            },
+            {
+                "title": "Kontak Dukungan Teknis",
+                "link": "https://example.com/kontak-dukungan"
+            }
+        ]
+    }
+]

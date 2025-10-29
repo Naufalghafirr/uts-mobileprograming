@@ -1,0 +1,163 @@
+[
+    {
+        "hari": "Senin",
+        "mata_kuliah": [
+            {
+                "kode": "CS101",
+                "nama": "Pemrograman Dasar",
+                "waktu": "08:00 - 10:00",
+                "ruang": "A101",
+                "dosen": "Dr. Andi Wijaya"
+            },
+            {
+                "kode": "CS102",
+                "nama": "Struktur Data",
+                "waktu": "10:30 - 12:30",
+                "ruang": "B202",
+                "dosen": "Prof. Siti Rahma"
+            },
+            {
+                "kode": "CS103",
+                "nama": "Basis Data",
+                "waktu": "13:00 - 15:00",
+                "ruang": "C303",
+                "dosen": "Dr. Budi Santoso"
+            },
+            {
+                "kode": "CS104",
+                "nama": "Sistem Operasi",
+                "waktu": "15:30 - 17:30",
+                "ruang": "D404",
+                "dosen": "Dr. Dewi Lestari"
+            }
+        ]
+    },{
+        "hari": "Selasa",
+        "mata_kuliah": [
+            {
+                "kode": "CS201",
+                "nama": "Jaringan Komputer",
+                "waktu": "08:00 - 10:00",
+                "ruang": "A102",
+                "dosen": "Dr. Rina Kurnia"
+            },
+            {
+                "kode": "CS202",
+                "nama": "Rekayasa Perangkat Lunak",
+                "waktu": "10:30 - 12:30",
+                "ruang": "B203",
+                "dosen": "Prof. Agus Santoso"
+            },
+            {
+                "kode": "CS203",
+                "nama": "Kecerdasan Buatan",
+                "waktu": "13:00 - 15:00",
+                "ruang": "C304",
+                "dosen": "Dr. Lina Marlina"
+            },
+            {
+                "kode": "CS204",
+                "nama": "Keamanan Siber",
+                "waktu": "15:30 - 17:30",
+                "ruang": "D405",
+                "dosen": "Dr. Eko Prasetyo"
+            }
+        ]
+    },{
+        "hari": "Rabu",
+        "mata_kuliah": [
+            {
+                "kode": "CS301",
+                "nama": "Pengembangan Aplikasi Mobile",
+                "waktu": "08:00 - 10:00",
+                "ruang": "A103",
+                "dosen": "Dr. Maya Sari"
+            },
+            {
+                "kode": "CS302",
+                "nama": "Cloud Computing",
+                "waktu": "10:30 - 12:30",
+                "ruang": "B204",
+                "dosen": "Prof. Dedi Kurniawan"
+            },
+            {
+                "kode": "CS303",
+                "nama": "Data Mining",
+                "waktu": "13:00 - 15:00",
+                "ruang": "C305",
+                "dosen": "Dr. Susi Susanti"
+            },
+            {
+                "kode": "CS304",
+                "nama": "Internet of Things",
+                "waktu": "15:30 - 17:30",
+                "ruang": "D406",
+                "dosen": "Dr. Andi Pratama"
+            }
+        ]
+    }, {
+        "hari": "Kamis",
+        "mata_kuliah": [
+            {
+                "kode": "CS401",
+                "nama": "Big Data Analytics",
+                "waktu": "08:00 - 10:00",
+                "ruang": "A104",
+                "dosen": "Dr. Rina Wijaya"
+            },
+            {
+                "kode": "CS402",
+                "nama": "Virtualisasi dan Containerization",
+                "waktu": "10:30 - 12:30",
+                "ruang": "B205",
+                "dosen": "Prof. Siti Kurnia"
+            },
+            {
+                "kode": "CS403",
+                "nama": "DevOps dan CI/CD",
+                "waktu": "13:00 - 15:00",
+                "ruang": "C306",
+                "dosen": "Dr. Budi Prasetyo"
+            },
+            {
+                "kode": "CS404",
+                "nama": "Blockchain Technology",
+                "waktu": "15:30 - 17:30",
+                "ruang": "D407",
+                "dosen": "Dr. Dewi Marlina"
+            }
+        ]
+    }, {
+        "hari": "Jumat",
+        "mata_kuliah": [
+            {
+                "kode": "CS501",
+                "nama": "Augmented Reality dan Virtual Reality",
+                "waktu": "08:00 - 10:00",
+                "ruang": "A105",
+                "dosen": "Dr. Agus Wijaya"
+            },
+            {
+                "kode": "CS502",
+                "nama": "Machine Learning",
+                "waktu": "10:30 - 12:30",
+                "ruang": "B206",
+                "dosen": "Prof. Lina Kurniawan"
+            },
+            {
+                "kode": "CS503",
+                "nama": "Computer Vision",
+                "waktu": "13:00 - 15:00",
+                "ruang": "C307",
+                "dosen": "Dr. Eko Santoso"
+            },
+            {
+                "kode": "CS504",
+                "nama": "Robotics",
+                "waktu": "15:30 - 17:30",
+                "ruang": "D408",
+                "dosen": "Dr. Maya Pratama"
+            }
+        ]
+    }
+]

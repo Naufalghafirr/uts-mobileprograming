@@ -1,0 +1,4 @@
+pass admin: admin123
+pass user: user123
+
+pass mahasiswa: nim@nama

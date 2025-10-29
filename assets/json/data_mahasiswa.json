@@ -1,0 +1,26 @@
+[
+    {
+        "nim": 23041001,
+        "nama": "Naufal Aditya Pratama",
+        "prodi": "Teknik Informatika",
+        "fakultas": "Teknologi Informasi dan Sains"
+    },
+    {
+        "nim": 23041002,
+        "nama": "Siti Aisyah",
+        "prodi": "Sistem Informasi",
+        "fakultas": "Teknologi Informasi dan Sains"
+    },
+    {
+        "nim": 23041003,
+        "nama": "Budi Santoso",
+        "prodi": "Teknik Komputer",
+        "fakultas": "Teknologi Informasi dan Sains"
+    },
+    {
+        "nim": 23041004,
+        "nama": "Dewi Lestari",
+        "prodi": "Teknologi Informasi",
+        "fakultas": "Teknologi Informasi dan Sains"
+    }
+]

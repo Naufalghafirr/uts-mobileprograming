@@ -1,0 +1,38 @@
+[
+    {
+        "userId": 1,
+        "username": "admin",
+        "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+        "isAdmin": true
+    },
+    {
+        "userId": 2,
+        "username": "user",
+        "password": "e606e38b0d8c19b24cf0ee3808183162ea7cd63ff7912dbb22b5e803286b4446",
+        "isAdmin": false
+    },
+    {
+        "userId": 3,
+        "username": "23041001",
+        "password": "e717d07390ac42910947189eb1e0a688f99e64d4e2b5ffa7f8844dab6fa4ac71",
+        "isAdmin": false
+    },
+    {
+        "userId": 4,
+        "username": "23041002",
+        "password": "86c9b369fc1352bc44c0e98c201f92237f1a5ff06da5d2419243055b64a08515",
+        "isAdmin": false
+    },
+    {
+        "userId": 5,
+        "username": "23041003",
+        "password": "89753e384f60b367a25d426678afe58abc84340fcd9cf9f6b993904c836c8e3d",
+        "isAdmin": false
+    },
+    {
+        "userId": 6,
+        "username": "23041004",
+        "password": "5fd5667292ac4ba62a6d3f3852e69abbe916c98629752462160d8cf6ca227b94",
+        "isAdmin": false
+    }
+]
