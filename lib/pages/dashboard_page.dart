@@ -1,6 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:uts_naufal/pages/about.dart';
 import 'package:uts_naufal/pages/jadwal_page.dart';
 import 'package:uts_naufal/pages/mahasiswa_page.dart';
 import 'package:uts_naufal/pages/nilai_page.dart';
@@ -163,6 +164,18 @@ class _DashboardPageState extends State<DashboardPage> {
                         context,
                         MaterialPageRoute(
                           builder: (_) => JadwalPage(user: widget.user),
+                        ),
+                      ),
+                    ),
+                    _menuCard(
+                      context,
+                      Icons.people_alt_outlined,
+                      'About Me',
+                      Colors.purple.shade400,
+                      () => Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (_) => AboutPage(),
                         ),
                       ),
                     ),

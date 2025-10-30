@@ -3,6 +3,7 @@ import 'package:uts_naufal/pages/dashboard_page.dart';
 import 'package:uts_naufal/pages/mahasiswa_page.dart';
 import 'package:uts_naufal/pages/jadwal_page.dart';
 import 'package:uts_naufal/login.dart';
+import 'package:uts_naufal/pages/about.dart';
 
 class NavigationDrawerWidget extends StatelessWidget {
   final Map<String, dynamic> user;
@@ -46,6 +47,7 @@ class NavigationDrawerWidget extends StatelessWidget {
             ),
           _drawerItem(
               context, Icons.schedule, 'Jadwal Kuliah', JadwalPage(user: user)),
+          _drawerItem(context, Icons.people, 'Tentang saya', AboutPage()),
           const Divider(),
           ListTile(
             leading: const Icon(Icons.logout),
